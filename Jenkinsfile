@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello Jenkins From Github : After poll SCM afer no quiet'
+                echo 'Hello Jenkins From Github : After poll SCM afer no quiet.'
             }
         }
     }
