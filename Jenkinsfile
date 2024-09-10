@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Hello Jenkins From Github: After Change '
+                echo 'Hello Jenkins From Github: After Change 2 '
             }
         }
     }
